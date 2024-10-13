@@ -1,0 +1,15 @@
+{
+  "name": "node-js-day-one",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "npm-keyword": "^8.0.0"
+  }
+}
